@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff",
+    "ms-vscode-remote.remote-wsl"
+  ],
+  "unwantedRecommendations": [
+    "google.google-antigravity",
+    "github.copilot",
+    "github.copilot-chat"
+  ]
+}

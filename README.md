@@ -5,5 +5,5 @@
 ## How do you run anything?
 — Nothing is runnable yet
 
-## What state is it in  ?
+## What state is it in ?
 — It's at the beginning, Stage 0.

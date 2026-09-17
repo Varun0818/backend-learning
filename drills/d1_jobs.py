@@ -2,7 +2,7 @@ DEFAULT_JOB = {"status": "pending", "attempts": 0}
 
 
 def build_job(payload):
-    job = DEFAULT_JOB
+    job = DEFAULT_JOB.copy()
     job["id"] = payload["id"]
     job["url"] = payload["url"]
     return job
@@ -21,6 +21,7 @@ def run(payloads, results):
     jobs = []
     for p in payloads:
         jobs.append(build_job(p))
+        print(jobs)
     for job, ok in zip(jobs, results):
         record_attempt(job, ok)
     return jobs

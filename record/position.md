@@ -1,5 +1,5 @@
 # POSITION
-updated: 2026-09-18 · session 4 · stage 0, week 1 of 4
+updated: 2026-09-18  (edited from clone1)· session 4 · stage 0, week 1 of 4
 
 ## Where I am
 Stage 0 — The Loop. WSL2, git fundamentals, G5 inventory all

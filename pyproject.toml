@@ -1,0 +1,14 @@
+[project]
+name = "learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Varun0818", email = "202402332+Varun0818@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pytest>=9.1.1",
+]
+
+
